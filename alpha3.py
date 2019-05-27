@@ -1,4 +1,4 @@
-n=int(input())
+n=input()
 a="abcdefghijklmnopqrstuvwxyz"
 if n in a:
   print("Alphabet")
